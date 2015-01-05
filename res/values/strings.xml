@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bike Tracker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="activate">Start Tracking</string>
+    <string name="deactivate">Stop Tracking</string>
+    <string name="apiKey"><!-- YOUR API KEY for Google's Geolocation API for Business --></string>
+    <string name="phoneNo"><!-- YOUR 10 DIGIT PHONE NUMBER --></string>
+
+</resources>
